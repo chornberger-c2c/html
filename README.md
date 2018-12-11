@@ -1,1 +1,1 @@
-for use with Docker image httpd in OpenShift
+various www-related stuff
